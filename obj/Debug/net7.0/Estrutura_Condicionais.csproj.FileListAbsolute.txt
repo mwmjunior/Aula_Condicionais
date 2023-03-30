@@ -1,0 +1,5 @@
+C:\Users\836574281\Desktop\Estrutura_Condicionais\obj\Debug\net7.0\Estrutura_Condicionais.csproj.AssemblyReference.cache
+C:\Users\836574281\Desktop\Estrutura_Condicionais\obj\Debug\net7.0\Estrutura_Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Desktop\Estrutura_Condicionais\obj\Debug\net7.0\Estrutura_Condicionais.AssemblyInfoInputs.cache
+C:\Users\836574281\Desktop\Estrutura_Condicionais\obj\Debug\net7.0\Estrutura_Condicionais.AssemblyInfo.cs
+C:\Users\836574281\Desktop\Estrutura_Condicionais\obj\Debug\net7.0\Estrutura_Condicionais.csproj.CoreCompileInputs.cache
